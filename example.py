@@ -4,7 +4,7 @@ from tkinter import Tk, Frame, Menu
 import tkinter as tk
 import sys
 
-
+#https://sky.pro/wiki/python/ustanovka-i-ispolzovanie-tkinter-bez-instalyatsii-v-python/
 ######Function
 # def test():
 # sub.mainloop()
