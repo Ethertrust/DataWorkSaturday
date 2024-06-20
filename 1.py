@@ -132,6 +132,15 @@ print(arr5)
 print(arr5.shape)
 print(arr5[1, -1, :, :, -1])
 print(arr5[1, -1, ..., -1])
+# print('---------------')
+# print('7. Булевы массивы Numpy')
+# a = np.random.rand(3,4) * 5
+# b = np.random.rand(3,4) * 5
+# c = a>2
+# print(a)
+# print(c)
+# print(a[a>2])
+# print(b)
 
 
 
